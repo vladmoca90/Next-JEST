@@ -39,7 +39,6 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-
   max-width: 800px;
   margin-top: 3rem;
 }
@@ -53,9 +52,7 @@
   text-decoration: none;
   border: 1px solid #eaeaea;
   border-radius: 10px;
-  transition:
-    color 0.15s ease,
-    border-color 0.15s ease;
+  transition: color 0.15s ease, border-color 0.15s ease;
 }
 
 .card:hover,
